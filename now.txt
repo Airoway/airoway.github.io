@@ -193,7 +193,6 @@ CCTV-15,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030347C3139
 
 影视频道,#genre#
 天道,https://live.metshop.top/yy/1382735574
-周星驰,https://live.metshop.top/huya/11342412
 寻秦记,https://live.metshop.top/yy/1382749900
 鹿鼎记,https://live.metshop.top/yy/1382704650
 鹿鼎记,https://live.metshop.top/yy/1382736920
