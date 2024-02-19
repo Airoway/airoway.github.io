@@ -212,7 +212,6 @@ CCTV-15,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030347C3139
 天龙八部,https://live.metshop.top/yy/1382736855
 天龙八部,https://live.metshop.top/yy/1382749944
 神雕侠侣,https://live.metshop.top/yy/1351762426
-笑傲江湖,https://live.metshop.top/yy/1354936128
 笑傲江湖,https://live.metshop.top/yy/1354930909
 TVB剧集,https://live.metshop.top/yy/1352833750
 康熙王朝,https://live.metshop.top/yy/1382736818
