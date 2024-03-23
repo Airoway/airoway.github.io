@@ -153,6 +153,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 西安影视频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/index.m3u8
 西安丝路频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/index.m3u8
 西安教育频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+洛川融媒,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002557/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+洛川融媒,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002557/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 求索系列,#genre#
 求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
@@ -178,8 +180,7 @@ NewTV系列,#genre#
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 东北热剧,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-洛川融媒,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002557/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-洛川融媒,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002557/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 陕西联通,#genre#
 CCTV-1,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030337C3733327C317C383030307C43435456312D746573747C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00
 CCTV-2,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030337C3531367C317C383030307CE4B8ADE5A4AEE4BA8CE5A5977C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00
