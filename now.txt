@@ -1,4 +1,4 @@
-央视ʰ,#genre#
+央视,#genre#
 CCTV-1_综合,https://itv.lat/tv/live.php?&line=1&id=cctv1
 CCTV-2_财经,https://itv.lat/tv/live.php?&line=1&id=cctv2
 CCTV-3_综艺,https://itv.lat/tv/live.php?&line=1&id=cctv3
@@ -21,7 +21,7 @@ CCTV-4K_超高清,https://itv.lat/tv/live.php?&line=1&id=cctv4k
 CCTV-16_奥林匹克_4K,https://itv.lat/tv/live.php?&line=1&id=cctv164k
 CGTN,https://itv.lat/tv/live.php?&line=1&id=cgtn
 
-卫视ʰ,#genre#
+卫视,#genre#
 北京卫视,https://itv.lat/tv/live.php?&line=1&id=bjws
 东方卫视,https://itv.lat/tv/live.php?&line=1&id=dfws
 天津卫视,https://itv.lat/tv/live.php?&line=1&id=tjws
@@ -64,7 +64,7 @@ CETV1,https://itv.lat/tv/live.php?&line=1&id=cetv1
 CETV2,https://itv.lat/tv/live.php?&line=1&id=cetv2
 CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 
-数字ʰ,#genre#
+数字,#genre#
 北京纪实科教,https://itv.lat/tv/live.php?&line=1&id=bjjskj
 纪实人文,https://itv.lat/tv/live.php?&line=1&id=shjsrw
 动漫秀场,https://itv.lat/tv/live.php?&line=1&id=dmxc
@@ -88,7 +88,7 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 财富天下,https://itv.lat/tv/live.php?&line=1&id=cftx
 中国天气,https://itv.lat/tv/live.php?&line=1&id=zgtq
 
-地方ʰ,#genre#
+地方,#genre#
 上海新闻综合,https://itv.lat/tv/live.php?&line=1&id=shxwzh
 上海都市,https://itv.lat/tv/live.php?&line=1&id=shds
 上海ICS外语,https://itv.lat/tv/live.php?&line=1&id=shics
@@ -110,7 +110,7 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 福建公共,https://itv.lat/tv/live.php?&line=1&id=fjgg
 福建教育,https://itv.lat/tv/live.php?&line=1&id=fjjy
 
-百视ʰ,#genre#
+百视,#genre#
 看天下精选,https://itv.lat/tv/live.php?&line=1&id=ktxjx
 华语影院,https://itv.lat/tv/live.php?&line=1&id=hyyy
 电竞天堂,https://itv.lat/tv/live.php?&line=1&id=djtt
@@ -128,7 +128,7 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 百视通体育2,https://itv.lat/tv/live.php?&line=1&id=sport2
 百视通体育3,https://itv.lat/tv/live.php?
 
-联通频道,#genre#
+联通,#genre#
 CCTV-1,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030337C3733327C317C383030307C43435456312D746573747C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00
 CCTV-2,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030337C3531367C317C383030307CE4B8ADE5A4AEE4BA8CE5A5977C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00
 CCTV-3,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303336307C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
@@ -187,7 +187,7 @@ CCTV-15,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030347C3139
 陕西西部电影,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236387C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 西安教育台,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303037317C7C7C7C687474707C74735B2F63686E5D5B74735D315B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 
-影视轮播,#genre#
+影视,#genre#
 成龙,https://live.metshop.top/yy/34460526
 成龙,https://live.metshop.top/yy/1354888751
 刘德华,https://live.metshop.top/yy/1354889048
