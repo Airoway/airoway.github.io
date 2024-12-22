@@ -118,7 +118,6 @@ CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 洛川融媒,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225908/index.m3u8
 
 影视频道,#genre#
-影视,#genre#
 罗翔,http://kxrj.site:9125/php/hy.php?id=11601965
 成龙,http://kxrj.site:9125/php/hy.php?id=11342386
 王晶,http://kxrj.site:9125/php/hy.php?id=11602058
