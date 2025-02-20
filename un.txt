@@ -129,13 +129,3 @@ CCTV-15,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030347C3139
 铁齿铜牙纪晓岚,http://dns.yiandrive.com:15907/huya/11342396
 康熙微服私访记,http://dns.yiandrive.com:15907/huya/11342418
 我的团长我的团,http://dns.yiandrive.com:15907/huya/11352910
-
-广播电台,#genre#
-陕西交通,http://ls.qingting.fm/live/1601.m3u8
-陕西故事,http://ls.qingting.fm/live/1608.m3u8
-陕西秦腔,http://ls.qingting.fm/live/1604.m3u8
-陕西都市,http://ls.qingting.fm/live/1609.m3u8
-陕西音乐,http://ls.qingting.fm/live/4873.m3u8
-西安交通,http://ls.qingting.fm/live/1611.m3u8
-西安新闻,http://ls.qingting.fm/live/1610.m3u8
-西安音乐,http://ls.qingting.fm/live/1612.m3u8
