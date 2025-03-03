@@ -122,7 +122,7 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 寻秦记,http://dns.yiandrive.com:15907/yy/1382749900
 鹿鼎记,http://dns.yiandrive.com:15907/yy/1382704650
 天龙八部,http://dns.yiandrive.com:15907/yy/1351814644
-神雕侠侣,http://dns.yiandrive.com:15907/yy/1382704651
+神雕侠侣,http://dns.yiandrive.com:15907/yy/1351762426
 笑傲江湖,http://dns.yiandrive.com:15907/yy/1354930909
 九阴真经,http://dns.yiandrive.com:15907/huya/23824164
 公主嫁到,http://dns.yiandrive.com:15907/yy/1382736915
